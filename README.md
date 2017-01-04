@@ -17,3 +17,4 @@ I have to first start out by saying, this is perhaps going to be one of the most
 Resources: -
 
 1. Research areas: http://futureoflife.org/data/documents/research_priorities.pdf
+2. CONPLAN 8888 : contingency plan for a zombie apocalypse.
