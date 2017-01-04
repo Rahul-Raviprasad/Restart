@@ -7,6 +7,8 @@ A repo of storing data sets, and action items, plans, better design of current s
 #### Disclaimer:
 I have to first start out by saying, this is perhaps going to be one of the most stupid sounding repository to many people. Also I don't feel in any way that there can be an Apocalyptic event in near future.
 
-#### Aim and objective:-
+#### Aims and objective:-
 1. Use this as a learning tool to assess and design systems. (systems here vary from computer architecture to real life policies, architecture, economics etc)
 2. Collect data and learning from it. (Find something important in that process.)
+3. Understanding positive aspects and ensuring there is focus on it(eg. eradication of poverty and diseases.)
+4. Collect valuable research to be done on how to maximize the economic benefits of AI while mitigating adverse effects, which could include increased inequality and unemployment (Mokyr 2014; Brynjolfsson and McAfee 2014; Frey and Osborne 2013; Glaeser 2014; Shanahan 2015; Nilsson 1984; Manyika et al. 2013)
