@@ -18,3 +18,4 @@ Resources: -
 
 1. Research areas: http://futureoflife.org/data/documents/research_priorities.pdf
 2. CONPLAN 8888 : contingency plan for a zombie apocalypse.
+      deals only the aftermath of such an event from a military stand point.
