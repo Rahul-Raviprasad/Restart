@@ -12,3 +12,8 @@ I have to first start out by saying, this is perhaps going to be one of the most
 2. Collect data and learning from it. (Find something important in that process.)
 3. Understanding positive aspects and ensuring there is focus on it(eg. eradication of poverty and diseases.)
 4. Collect valuable research to be done on how to maximize the economic benefits of AI while mitigating adverse effects, which could include increased inequality and unemployment (Mokyr 2014; Brynjolfsson and McAfee 2014; Frey and Osborne 2013; Glaeser 2014; Shanahan 2015; Nilsson 1984; Manyika et al. 2013)
+
+
+Resources: -
+
+1. Research areas: http://futureoflife.org/data/documents/research_priorities.pdf
