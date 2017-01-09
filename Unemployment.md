@@ -10,4 +10,7 @@ eg. farming, cooking, teaching etc
 
 Case 2: people who are in creative fields or artistic field believe they can't be replaced
 Is it really so?
-Maybe at a particular level of mastery it is perhaps not possible soon. But the advantage a computer would have, is to do a brute force analysis and having multiple trials and errors(iterations), and can beat small players or will drive people away from the field. 
+Maybe at a particular level of mastery it is perhaps not possible soon. But the advantage a computer would have, is to do a brute force analysis and having multiple trials and errors(iterations), and can beat small players or will drive people away from the field.
+
+
+https://artplusmarketing.com/how-we-can-deliver-a-universal-basic-income-right-now-and-save-ourselves-from-the-robots-without-e1972e22e8eb#.adb1qoejm

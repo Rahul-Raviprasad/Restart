@@ -14,8 +14,22 @@ I have to first start out by saying, this is perhaps going to be one of the most
 4. Collect valuable research to be done on how to maximize the economic benefits of AI while mitigating adverse effects, which could include increased inequality and unemployment (Mokyr 2014; Brynjolfsson and McAfee 2014; Frey and Osborne 2013; Glaeser 2014; Shanahan 2015; Nilsson 1984; Manyika et al. 2013)
 
 
+
+
 Resources: -
 
 1. Research areas: http://futureoflife.org/data/documents/research_priorities.pdf
 2. CONPLAN 8888 : contingency plan for a zombie apocalypse.
       deals only the aftermath of such an event from a military stand point.
+
+
+#### Few links to explore
+https://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+
+https://www.youtube.com/watch?v=NJtl95R3tf8
+
+https://en.wikipedia.org/wiki/AI_winter
+
+https://www.technologyreview.com/s/513696/deep-learning/
+
+https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/
