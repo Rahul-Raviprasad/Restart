@@ -12,8 +12,14 @@ note:- in above quote we are not saying that we have the most optimal solution t
 Interesting questions
 Language or thought. Which came first?
 Body mind dualism --> aatma vs shareer in Hinduism.
-idealism --> everything is an idea -> everything is maya 
+idealism --> everything is an idea -> everything is maya
 
+#### State space search
+uninformed
+
+of 2 types
+configuration problems - solution is a configuration
+planning problems - solution is a path
 
 ## Resources
 Lectures By Prof Deepak Khemani, CSE, IIT Madras.
