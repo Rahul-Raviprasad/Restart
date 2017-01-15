@@ -17,6 +17,9 @@ idealism --> everything is an idea -> everything is maya
 #### State space search
 uninformed
 
+moveGen -> set of neighbours
+goalTest -> has goal reached or not
+
 of 2 types
 configuration problems - solution is a configuration
 planning problems - solution is a path
