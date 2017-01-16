@@ -1,18 +1,18 @@
 ## ROBOTS as sexual and life partners
 
-#### Survey
+### Survey
+#### 1 Robot vs Human
+Question: Which would you choose over the other.(Gvien Robots express a very good level of emotions feelings etc, while the core behaviors like happiness, loyalty, honesty can be configured to custom levels)?
+* human - 6
+* robot - 1
+* maybe - 1
 
-Robot vs human?
-human - 6
-robot - 1
-maybe - 1
+#### 2 Robot vs being single?
+* being single - 1
+* robot - 5
+* not sure - 2
 
-Robot vs being single?
-being single - 1
-robot - 5
-not sure - 2
-
-#### Resources
+### Resources
 1. https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence
 2. http://www.gadgetsnow.com/computing/meet-jia-jia-a-surprisingly-human-like-robot/articleshow/56494652.cms
 3. https://en.wikipedia.org/wiki/Bicentennial_Man_(film)
