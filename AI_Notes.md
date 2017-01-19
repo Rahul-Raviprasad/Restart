@@ -25,4 +25,6 @@ configuration problems - solution is a configuration
 planning problems - solution is a path
 
 ## Resources
-Lectures By Prof Deepak Khemani, CSE, IIT Madras.
+1. Lectures By Prof Deepak Khemani, CSE, IIT Madras.
+2. The AI Programmer's Bookshelf. A list of useful books for game AI programming. - Jeff Orkin, PhD MIT
+http://alumni.media.mit.edu/~jorkin/aibooks.html
