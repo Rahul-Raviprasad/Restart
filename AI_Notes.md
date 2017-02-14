@@ -28,3 +28,5 @@ planning problems - solution is a path
 1. Lectures By Prof Deepak Khemani, CSE, IIT Madras.
 2. The AI Programmer's Bookshelf. A list of useful books for game AI programming. - Jeff Orkin, PhD MIT
 http://alumni.media.mit.edu/~jorkin/aibooks.html
+
+3. Moral Machines:  http://moralmachine.mit.edu/
