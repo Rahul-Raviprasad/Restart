@@ -27,3 +27,24 @@ Maybe at a particular level of mastery it is perhaps not possible soon. But the 
 
 
 https://artplusmarketing.com/how-we-can-deliver-a-universal-basic-income-right-now-and-save-ourselves-from-the-robots-without-e1972e22e8eb#.adb1qoejm
+
+## Universal basic income
+
+The moment we reach a point where all jobs have been automated or majority of what can be has been automated, then what happens?
+
+In todays world we give respect to "Merits". Think about it what are these merits?
+* A programmer who has mastered a programming language and understand the fundamentals of computer science, feels he/she is smart, thier acquistion of this knowledge makes useful to their organizations. say this programmer takes 4 years of engg. + 4 years in industry to feel this way. He earns a good pay and beleive, he deserve it.
+
+* A business man invest in a firm which he believes in and reaps the benefit. He only through his research, interest and risk appetitie could pursue this venture and assuming this opportunity isn't restricted to other normal peolpe.
+
+* A farmer works day and night to get the food.
+
+* There is a bum, who is not interested in working hard and earning.
+
+In all these cases there are markets out there and economic consumption and demand exists, and "Hard" and "Smart" work both is needed to fulfill this today. What happens when these merits start becoming insignificant.
+* A robot which is smarter than you, or can code/automate stuff based on business inputs directly
+* Should you be paid for your risk appetite alone?
+* A robot can micromanage the plant and more stronger and faster. it can already kill any blue collar job.
+* Should a bum be treated equally to a scientist from ISRO (Indian Space Research Organization) after AI takeover?
+
+Assuming society, democracy, freedom, government (all institutions) remain intact and somewhat similar to present day, but the only problem remaining is unemployment. How do have transaction? If we use money, how do we generate and consume?
