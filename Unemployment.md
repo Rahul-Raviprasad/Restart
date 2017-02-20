@@ -48,3 +48,9 @@ In all these cases there are markets out there and economic consumption and dema
 * Should a bum be treated equally to a scientist from ISRO (Indian Space Research Organization) after AI takeover?
 
 Assuming society, democracy, freedom, government (all institutions) remain intact and somewhat similar to present day, but the only problem remaining is unemployment. How do have transaction? If we use money, how do we generate and consume?
+
+
+
+## Resources
+1. Excellent post by Quincy Larson:  
+https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.759prbxq2
