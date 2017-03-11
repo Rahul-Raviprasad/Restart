@@ -1,15 +1,15 @@
 ## ROBOTS as sexual and life partners
 
-### Survey ( 12 people so far)
+### Survey ( 13 people so far)
 #### 1 Robot vs Human
 Question: Which would you choose over the other.(Given Robots express a very good level of emotions feelings etc, while the core behaviors like happiness, loyalty, honesty can be configured to custom levels)?
-* human - 10
+* human - 11
 * robot - 2
 * maybe - 1
 
 #### 2 Robot vs being single?
 * being single - 4
-* robot - 7
+* robot - 8
 * not sure - 2
 
 
